@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FraktaleAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string-array name="sets">
+        <item>Mandelbrot</item>
+        <item>Julii</item>
+        <item>Mandelbrot Cubic</item>
+        <item>Mandelbrot Quadratur</item>
+        <item>Mandelbrot Penta</item>
+    </string-array>
+
+</resources>
